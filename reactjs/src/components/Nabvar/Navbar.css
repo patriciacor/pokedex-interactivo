@@ -1,0 +1,24 @@
+.navbar{
+    background-color: #5e5f67;    height: 50px;
+    width: 100vw;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    position: absolute;
+}
+.logo{
+        height: 50px;
+        width: 100px;
+        margin-left: 550px;
+        margin-top: -8px;
+        border-radius: 0px;
+
+}
+.heart-img{
+height: 30px;
+width: 30px;
+margin-top: 1px;
+border-radius: 0px;
+margin-right: 50px;
+
+}

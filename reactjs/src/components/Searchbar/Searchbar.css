@@ -1,0 +1,12 @@
+.input{
+    margin-top:100px;
+    margin-left: 400px;
+    width: 500px;
+    outline: none;
+}
+.btn{
+    background-color: rgb(135, 135, 135);
+    border-radius: 10px;
+}
+
+
